@@ -1,0 +1,7 @@
+var = int(input("floor number: "))
+if var <= 0:
+        print(var)
+elif var > 13:
+        print(var-2)
+else:
+        print(var-1)
